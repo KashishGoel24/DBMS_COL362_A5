@@ -1,0 +1,766 @@
+0    [Test worker] TRACE manager.StorageManager  - Loading file: film_category.csv
+14   [Test worker] TRACE manager.StorageManager  - Done writing file
+14   [Test worker] TRACE manager.StorageManager  - Loading file: country.csv
+15   [Test worker] TRACE manager.StorageManager  - Done writing file
+15   [Test worker] TRACE manager.StorageManager  - Loading file: address.csv
+25   [Test worker] TRACE manager.StorageManager  - Done writing file
+25   [Test worker] TRACE manager.StorageManager  - Loading file: city.csv
+27   [Test worker] TRACE manager.StorageManager  - Done writing file
+27   [Test worker] TRACE manager.StorageManager  - Loading file: film_actor.csv
+36   [Test worker] TRACE manager.StorageManager  - Done writing file
+36   [Test worker] TRACE manager.StorageManager  - Loading file: language.csv
+36   [Test worker] TRACE manager.StorageManager  - Done writing file
+36   [Test worker] TRACE manager.StorageManager  - Loading file: staff.csv
+36   [Test worker] TRACE manager.StorageManager  - Done writing file
+36   [Test worker] TRACE manager.StorageManager  - Loading file: film.csv
+59   [Test worker] TRACE manager.StorageManager  - Done writing file
+59   [Test worker] TRACE manager.StorageManager  - Loading file: store.csv
+59   [Test worker] TRACE manager.StorageManager  - Done writing file
+59   [Test worker] TRACE manager.StorageManager  - Loading file: inventory.csv
+69   [Test worker] TRACE manager.StorageManager  - Done writing file
+69   [Test worker] TRACE manager.StorageManager  - Loading file: rental.csv
+95   [Test worker] TRACE manager.StorageManager  - Done writing file
+96   [Test worker] TRACE manager.StorageManager  - Loading file: actor.csv
+96   [Test worker] TRACE manager.StorageManager  - Done writing file
+96   [Test worker] TRACE manager.StorageManager  - Loading file: payment.csv
+192  [Test worker] TRACE manager.StorageManager  - Done writing file
+192  [Test worker] TRACE manager.StorageManager  - Loading file: category.csv
+193  [Test worker] TRACE manager.StorageManager  - Done writing file
+193  [Test worker] TRACE manager.StorageManager  - Loading file: customer.csv
+199  [Test worker] TRACE manager.StorageManager  - Done writing file
+199  [Test worker] TRACE MyCalciteConnection  - Done loading files
+0    [Test worker] TRACE manager.StorageManager  - Loading file: film_category.csv
+21   [Test worker] TRACE manager.StorageManager  - Done writing file
+21   [Test worker] TRACE manager.StorageManager  - Loading file: country.csv
+22   [Test worker] TRACE manager.StorageManager  - Done writing file
+22   [Test worker] TRACE manager.StorageManager  - Loading file: address.csv
+26   [Test worker] TRACE manager.StorageManager  - Done writing file
+26   [Test worker] TRACE manager.StorageManager  - Loading file: city.csv
+28   [Test worker] TRACE manager.StorageManager  - Done writing file
+28   [Test worker] TRACE manager.StorageManager  - Loading file: film_actor.csv
+37   [Test worker] TRACE manager.StorageManager  - Done writing file
+37   [Test worker] TRACE manager.StorageManager  - Loading file: language.csv
+38   [Test worker] TRACE manager.StorageManager  - Done writing file
+38   [Test worker] TRACE manager.StorageManager  - Loading file: staff.csv
+38   [Test worker] TRACE manager.StorageManager  - Done writing file
+38   [Test worker] TRACE manager.StorageManager  - Loading file: film.csv
+62   [Test worker] TRACE manager.StorageManager  - Done writing file
+62   [Test worker] TRACE manager.StorageManager  - Loading file: store.csv
+63   [Test worker] TRACE manager.StorageManager  - Done writing file
+63   [Test worker] TRACE manager.StorageManager  - Loading file: inventory.csv
+71   [Test worker] TRACE manager.StorageManager  - Done writing file
+71   [Test worker] TRACE manager.StorageManager  - Loading file: rental.csv
+100  [Test worker] TRACE manager.StorageManager  - Done writing file
+100  [Test worker] TRACE manager.StorageManager  - Loading file: actor.csv
+100  [Test worker] TRACE manager.StorageManager  - Done writing file
+101  [Test worker] TRACE manager.StorageManager  - Loading file: payment.csv
+199  [Test worker] TRACE manager.StorageManager  - Done writing file
+199  [Test worker] TRACE manager.StorageManager  - Loading file: category.csv
+199  [Test worker] TRACE manager.StorageManager  - Done writing file
+199  [Test worker] TRACE manager.StorageManager  - Loading file: customer.csv
+207  [Test worker] TRACE manager.StorageManager  - Done writing file
+207  [Test worker] TRACE MyCalciteConnection  - Done loading files
+570  [Test worker] TRACE rel.PRel  - Opening PProjectFilter
+570  [Test worker] TRACE rel.PRel  - Opening PTableScan
+570  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+570  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+570  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+570  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+570  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+570  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+570  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+570  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+570  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+570  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+570  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+570  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+570  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+570  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+571  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+571  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+571  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+572  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+572  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+572  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+573  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+573  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+573  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+573  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+573  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+573  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+573  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+573  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+573  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+573  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+573  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+573  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+573  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+573  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+573  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+573  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+573  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+573  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+573  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+573  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+573  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+573  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+573  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+573  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+573  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+573  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+573  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+573  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+573  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+573  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+573  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+573  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+573  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+578  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+578  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+578  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+579  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+579  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+579  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+579  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+580  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+580  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+580  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+580  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+580  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+580  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+580  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+580  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+580  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+580  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+580  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+580  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+580  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+580  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+580  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+580  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+580  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+580  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+580  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+580  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+580  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+580  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+580  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+580  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+580  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+580  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+580  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+580  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+581  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+581  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+581  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+581  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+581  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+581  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+581  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+581  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+582  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+582  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+582  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+582  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+582  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+583  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+583  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+583  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+583  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+583  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+584  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+584  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+584  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+584  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+584  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+584  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Getting next row from PProjectFilter
+584  [Test worker] TRACE rel.PRel  - Checking if PProjectFilter has next
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+584  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+584  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+584  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Getting next row from PTableScan
+585  [Test worker] TRACE rel.PRel  - inside the evaluate predicate function of the filter operator
+585  [Test worker] TRACE rel.PRel  - Checking if PTableScan has next
+585  [Test worker] TRACE rel.PRel  - Closing PProjectFilter
+585  [Test worker] TRACE rel.PRel  - Closing PTableScan
