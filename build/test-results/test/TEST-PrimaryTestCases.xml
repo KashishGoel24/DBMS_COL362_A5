@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimaryTestCases" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-27T16:57:31" hostname="KASHISHs-MacBook-Air-2.local" time="0.929">
+  <properties/>
+  <testcase name="testSFW" classname="PrimaryTestCases" time="0.929"/>
+  <system-out><![CDATA[[+] Logical RelNode:
+LogicalProject(FIRST_NAME=[$1])
+  LogicalFilter(condition=[AND(>($0, 100), <($0, 150))])
+    PTableScan(table=[[FILM_DB, actor]])
+
+[+] Physical RelNode:
+PProjectFilter(FIRST_NAME=[$1])
+  PTableScan(table=[[FILM_DB, actor]])
+
+Test passed :)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
